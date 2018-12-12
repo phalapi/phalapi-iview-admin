@@ -15,7 +15,7 @@
 
 ![](http://cdn7.phalapi.net/15446145211830.png)
 
-# 前端部分（即界面）
+# 前端部分（iView界面）
 
 ## 安装
 ```
@@ -39,7 +39,7 @@ npm run build
 
 更多帮助和说明，请前往[iView-admin](https://github.com/iview/iview-admin)。
 
-# 后端部分（即接口）
+# 后端部分（PHP接口）
 
 ## 安装
 
