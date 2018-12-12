@@ -13,6 +13,8 @@
 
 在线demo请访问：todo。
 
+![](http://cdn7.phalapi.net/15446145211830.png)
+
 # 前端部分（即界面）
 
 ## 安装
@@ -138,7 +140,7 @@ class Message extends Api {
 
 自动生成的在线接口文档，访问链接是：http://iview-admin.phalapi.net/docs.php?service=App.Message.Count&detail=1&type=fold。效果如下：  
 
-todo
+![](http://cdn7.phalapi.net/15446144893453.png)
 
 
 更多帮助和说明，请前往[PhalApi](https://github.com/phalapi/phalapi)。
