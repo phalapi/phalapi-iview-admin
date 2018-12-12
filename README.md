@@ -138,7 +138,7 @@ class Message extends Api {
 
 ### 接口文档
 
-自动生成的在线接口文档，访问链接是：http://iview-admin.phalapi.net/docs.php?service=App.Message.Count&detail=1&type=fold。效果如下：  
+自动生成的在线接口文档，访问链接是：[http://iview-admin.phalapi.net/docs.php?service=App.Message.Count&detail=1&type=fold](http://iview-admin.phalapi.net/docs.php?service=App.Message.Count&detail=1&type=fold)。 效果如下：  
 
 ![](http://cdn7.phalapi.net/15446144893453.png)
 
