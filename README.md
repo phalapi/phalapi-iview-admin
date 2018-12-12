@@ -71,6 +71,17 @@ server {
 }
 ```
 
+如果不想配置重定向，也可以直接通过接口PHP入口文件来请求，即重定向后是（统一以```/api/```开头）：
+```
+http://iview-admin.phalapi.net/api/Message.Count
+```
+如果没有重定向，可以直接访问PHP文件：  
+```
+http://iview-admin.phalapi.net/api.php?s=Message.Count
+```
+这两种方式效果是一样的，只是第一种更方便前端mock数据。  
+
+
 ## 两个重要的访问链接
 
 本地部署好后，就能开始访问了。假设当前配置的站点域名是：iview-admin.phalapi.net，两个重要的访问链接分别是：
