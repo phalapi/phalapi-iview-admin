@@ -6,7 +6,8 @@
  + [iView-admin](https://github.com/iview/iview-admin) 基于iView的管理系统模板 
 
 本项目的最大特色：符合前后端分离的主流设计思想，结合了专注于接口领域的PhalApi框架，以及很火的iView。目前，使用的都是最新版本的技术，包括：PhalApi 2.4.2、iView-admin 2.3.0、PHP 7、Vue等。  
-** 欢迎大家一起参与开源维护！ **
+
+**欢迎大家一起参与开源维护！**
 
 # 在线访问
 
